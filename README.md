@@ -1,7 +1,7 @@
 - 👋 Hi, I’m 702MBA
 - 👀 I’m interested in ...learning python & PostGreSQL
 - 🌱 I’m currently learning ..SQL & Python (PostgreSQL on MAC)
-- 💞️ I’m looking to collaborate on ...any project involing automation and business intelligence
+- 💞️ I’m looking to collaborate on ...any project involving automation and analytics/business intelligence
 - 📫 How to reach me ...via this forum or 702mba@gmail.com
 
 <!---
